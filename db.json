@@ -5,5 +5,9 @@
 	}, {
 		"id": 2,
 		"result": "FAIL"
-	}]
+	},
+        {
+                "id": 3,
+                "result": "PASS WITH WARNINGS"
+        }]
 }
