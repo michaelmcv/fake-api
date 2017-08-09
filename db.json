@@ -1,0 +1,9 @@
+{
+	"data": [{
+		"id": 1,
+		"result": "PASS"
+	}, {
+		"id": 2,
+		"result": "FAIL"
+	}]
+}
